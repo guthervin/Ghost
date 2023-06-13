@@ -1,9 +1,9 @@
 {
-    "Email sent": "",
-    "Now check your email!": "",
-    "Please enter a valid email address": "",
-    "Something went wrong, please try again.": "",
-    "Subscribe": "",
-    "To complete signup, click the confirmation link in your inbox. If it doesn't arrive within 3 minutes, check your spam folder!": "",
+    "Email sent": "Email elküldve.",
+    "Now check your email!": "Nézd meg a e-mailjeidet!",
+    "Please enter a valid email address": "Kérlek, érvényes e-mail-címet adj meg!",
+    "Something went wrong, please try again.": "Valami hiba történt, próbáld újra!",
+    "Subscribe": "Feliratkozás",
+    "To complete signup, click the confirmation link in your inbox. If it doesn't arrive within 3 minutes, check your spam folder!": "A feliratkozáshoz kattints a megerősítő linkre a postafiókodban. Ha nem érkezik meg 3 percen belül, akkor nézd meg a levélszemétben!",
     "Your email address": ""
 }
